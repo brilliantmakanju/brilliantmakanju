@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFwwlsrxbo/6WkyOT5krMvhL6zMIg0jDA/view?utm_content=DAFwwlsrxbo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3EOA-wAZXUcFPcs_verS_s&ust=1696939045789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLinj9z06IEDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Brilliant Makanju</h1>
 <h3 align="center">👨‍💻 Full Stack Dev, Your Neighborhood Coder Making Magic Happen 🏡✨</h3>
 
