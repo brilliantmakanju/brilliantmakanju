@@ -1,4 +1,4 @@
-![Header](./[https://www.canva.com/design/DAFwwlsrxbo/6WkyOT5krMvhL6zMIg0jDA/view?utm_content=DAFwwlsrxbo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink])
+![MasterHead](https://www.canva.com/design/DAFwwlsrxbo/6WkyOT5krMvhL6zMIg0jDA/view?utm_content=DAFwwlsrxbo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Brilliant Makanju</h1>
 <h3 align="center">👨‍💻 Full Stack Dev, Your Neighborhood Coder Making Magic Happen 🏡✨</h3>
 
