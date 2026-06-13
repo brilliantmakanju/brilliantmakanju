@@ -1,49 +1,51 @@
 # Hey, I'm Jol3x  
-*Full‑stack & AI engineer · building alone, shipping silently.*
 
-I turn ideas into working software. Recent projects include LLM‑powered SaaS, an ETL pipeline that scrapes 176+ career pages without manual intervention, and a real‑time YouTube inbox (in progress). I focus on backend systems, API design, frontend UI, and getting AI to do structured, useful things.
+*Full‑stack & AI engineer · I build alone and ship quietly.*
 
----
-
-## 🚀 Currently Exploring  
-- Rust + WebSockets (ThreadChat – real‑time YouTube inbox)  
-- SvelteKit  
-- Multi‑agent LLM architectures (adversarial debate systems for prediction)  
+I turn ideas into working software. Recent stuff: an LLM‑powered SaaS, an ETL pipeline that scrapes 176+ career pages without manual work, and a real‑time YouTube inbox (still working on it). I focus on backend, API design, frontend UI, and getting AI to do structured, useful things.
 
 ---
 
-## 🛠️ Technical Skills  
+## What I'm exploring right now  
+
+Rust + WebSockets for ThreadChat (real‑time YouTube inbox) · SvelteKit · multi‑agent LLM systems (adversarial debate for predictions)
+
+---
+
+## Tech I use
 
 **Languages**  
-Python · TypeScript · JavaScript · HTML · CSS · Rust (learning) · Bash  
+Python · TypeScript · JavaScript · HTML · CSS · Rust (learning) · Bash
 
 **Backend**  
-Django (DRF) · FastAPI · Flask · Axum (learning)  
+Django (DRF) · FastAPI · Flask · Axum (learning)
 
 **Frontend**  
-React · Next.js · SvelteKit (learning) · Tailwind CSS · Zustand · TanStack Query · Radix UI (via shadcn)  
+React · Next.js · SvelteKit (learning) · Tailwind CSS · Zustand · TanStack Query · Radix UI (via shadcn)
 
 **AI & LLM**  
-LLM Integration (OpenAI, Claude, Gemini, DeepSeek) · RAG · RunPod (GPU)  
+LLM integration (OpenAI, Claude, Gemini, DeepSeek) · RAG · RunPod (GPU)
 
 **Databases**  
-PostgreSQL · MySQL · Redis  
+PostgreSQL · MySQL · Redis
 
-**DevOps & Tooling**  
-Docker · Nginx · Git · Linux · Bash · Postman · Neovim · AWS · GCP · Vercel · Railway  
+**DevOps & tools**  
+Docker · Nginx · Git · Linux · Bash · Postman · Neovim · AWS · GCP · Vercel · Railway
 
-**Media & Storage**  
-FFmpeg (CUDA/NVENC) · Cloudinary  
-
----
-
-## 📋 Ask Me About  
-Backend architecture · Frontend UI · LLM integration · Web scraping · Anime · Building alone  
+**Media & storage**  
+FFmpeg (CUDA/NVENC) · Cloudinary
 
 ---
 
-## 📍 Reach Me  
-[brilliantmakanju10@gmail.com](mailto:brilliantmakanju10@gmail.com) · [Twitter](https://twitter.com/jolex_dev) · [LinkedIn](https://linkedin.com/in/brilliantmakanju)  
+## Ask me about  
+
+Backend architecture · frontend UI · LLM integration · web scraping · anime · building alone
+
+---
+
+## Reach me  
+
+[brilliantmakanju10@gmail.com](mailto:brilliantmakanju10@gmail.com) · [Twitter](https://twitter.com/jolex_dev) · [LinkedIn](https://linkedin.com/in/brilliantmakanju)
 
 ---
 
