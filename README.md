@@ -1,14 +1,14 @@
 # Hey, I'm Jol3x  
-*Full‑stack & AI engineer · 6 years · building alone, shipping silently.*
+*Full‑stack & AI engineer · building alone, shipping silently.*
 
-I build products that actually work — from LLM‑powered SaaS to ETL pipelines that scrape 176+ career pages without manual intervention. I go deep on backend systems, API design, and making AI do structured, useful things.
+I turn ideas into working software. Recent projects include LLM‑powered SaaS, an ETL pipeline that scrapes 176+ career pages without manual intervention, and a real‑time YouTube inbox (in progress). I focus on backend systems, API design, frontend UI, and getting AI to do structured, useful things.
 
 ---
 
 ## 🚀 Currently Exploring  
 - Rust + WebSockets (ThreadChat – real‑time YouTube inbox)  
 - SvelteKit  
-- Multi‑agent LLM architectures  
+- Multi‑agent LLM architectures (adversarial debate systems for prediction)  
 
 ---
 
@@ -30,7 +30,7 @@ LLM Integration (OpenAI, Claude, Gemini, DeepSeek) · RAG · RunPod (GPU)
 PostgreSQL · MySQL · Redis  
 
 **DevOps & Tooling**  
-Docker · Nginx · Git · Linux · Bash · Postman · AWS · GCP · Vercel · Railway  
+Docker · Nginx · Git · Linux · Bash · Postman · Neovim · AWS · GCP · Vercel · Railway  
 
 **Media & Storage**  
 FFmpeg (CUDA/NVENC) · Cloudinary  
@@ -38,12 +38,12 @@ FFmpeg (CUDA/NVENC) · Cloudinary
 ---
 
 ## 📋 Ask Me About  
-Backend architecture · LLM integration · Web scraping · Anime · Building alone  
+Backend architecture · Frontend UI · LLM integration · Web scraping · Anime · Building alone  
 
 ---
 
 ## 📍 Reach Me  
-[brilliantmakanju7@gmail.com](mailto:brilliantmakanju7@gmail.com) · [Twitter](https://twitter.com/jolex_dev) · [LinkedIn](https://linkedin.com/in/brilliantmakanju)  
+[brilliantmakanju10@gmail.com](mailto:brilliantmakanju10@gmail.com) · [Twitter](https://twitter.com/jolex_dev) · [LinkedIn](https://linkedin.com/in/brilliantmakanju)  
 
 ---
 
